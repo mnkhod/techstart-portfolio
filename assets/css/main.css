@@ -176,6 +176,9 @@ nav ul li a:hover{
 
 #main .rightSide img {
   width: 100%;
+  animation: pulse;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
 }
 
 #main .bgImage {
@@ -217,6 +220,9 @@ nav ul li a:hover{
 #aboutUs .leftSide img {
   width: 550px;
   height: auto;
+  animation: pulse;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
 }
 
 #aboutUs .rightSide{
@@ -400,6 +406,9 @@ nav ul li a:hover{
 #contactUs .rightSide img{
   width: 50%;
   height: auto;
+  animation: pulse;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
 }
 
 #contactUs .rightSide .backSide img{
